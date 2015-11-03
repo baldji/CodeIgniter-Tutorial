@@ -19,7 +19,7 @@
 
 <div class="container">
 <div class="page-header">
-<h1>Welcome to CodeIgniter!</h1>
+<h1>Welcome to Baldji!</h1>
 </div><!--page-header-->
 <p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
